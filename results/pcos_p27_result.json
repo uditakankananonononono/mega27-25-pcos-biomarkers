@@ -1,0 +1,29 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294074",
+  "sha256": {
+    "GSE294074_series_matrix.txt.gz": "575fef37c3efe5404230e4dd041e51d07180c27c265e504fa366b6a6d233e548",
+    "GSE294074_RAW.tar": "aced9e17fed2f49b1cccf48d2463d46a4796322744920957f1499ee143496156",
+    "GSE294074_annotation.xls.gz": "f2ab5c472dfbe617d4d487d949f351f64c48d45c900635bfed1a442e33c568d7"
+  },
+  "n_pcos": 3,
+  "n_control": 3,
+  "n_mapped_transcripts": 125495,
+  "n_omitted_transcript_sample_cells": 651121,
+  "n_filtered_genes": 11011,
+  "n_effect_genes": 11011,
+  "n_fixed_measured": 15,
+  "missing_fixed": [
+    "AFAP1L1",
+    "CELA1",
+    "F8A3",
+    "LIMCH1",
+    "ZNF282"
+  ],
+  "n_positive": 14,
+  "n_negative": 1,
+  "n_sign_match": 9,
+  "null_mean": 7.2537,
+  "empirical_p": 0.2606739326067393,
+  "registered_descriptive_support": false,
+  "ambiguous_annotation_ids": 0
+}

@@ -1,0 +1,29 @@
+{
+  "retrieved_at_utc": "2026-09-25T06:13:37.586999+00:00",
+  "url": "https://www.ebi.ac.uk/metabolights/ws/studies/MTBLS12367",
+  "accession": "MTBLS12367",
+  "title": "Androgens drive SLC1A5-dependent metabolic reprogramming in polycystic ovary syndrome-LC-MS analysis of granulosa cells",
+  "release_date": "2025-04-14",
+  "description": " Polycystic ovary syndrome (PCOS) is the primary cause of female infertility. Growing evidence suggests that dysregulation of amino acid metabolism plays a significant role in the onset and progression of PCOS. However, the underlying mechanism remains unclear. In this study, we conducted targeted metabolite profiling of human follicular fluid (FF) and granulosa cells (GCs). A significant increase in glutamine (Gln) uptake was observed in patients with hyperandrogenic-PCOS (HA-PCOS), mediated by the upregulation of SLC1A5, a specific Gln transporter. We subsequently confirmed that androgen excess primarily activates SLC1A5 expression. Furthermore, Slc1a5 overexpression in female mice induced PCOS-like phenotypes, including hyperandrogenism and abnormal follicle development. Additionally, the pharmacological blockade of SLC1A5 provided reproductive benefits to mice exhibiting PCOS-like symptoms. Mechanistically, we found that elevated flux of Gln-derived \u03b1-ketoglutarate (\u03b1-KG) enhanced HDAC5 expression and suppressed acetylation on histone 3 lysine residue 14 and lysine residue 56. The reduction in acetylation level correlated with the downregulation of several genes related to folliculogenesis, including CYP19A1, thereby exacerbating androgenic homeostasis imbalance. These findings indicate that androgen-induced aberrant Gln uptake via SLC1A5 is crucial for the development and progression of PCOS, suggesting pharmacological blockade of SLC1A5 as a potential therapeutic strategy for PCOS patients. ",
+  "associated_publications": [
+    {
+      "comments": [],
+      "title": "Androgens drive SLC1A5-dependent metabolic reprogramming in polycystic ovary syndrome",
+      "authorList": "Yishu Wang, Jiaying Wu, Gaochen Zhang, Yan Shi, Yicong Meng, Pingping Lv, Weiwei Huang, Yunfei Su, Zhiyang Zhou, Bo Wang, Xiaojun Chen, Chengliang Zhou, Jiexue Pan, Li Jin, Xiaotao Wang, Yanting Wu, Jianzhong Sheng, Xinmei Liu, Yu Zhang, Guolian Ding, Chuanjin Yu, Hefeng Huang",
+      "pubMedID": "",
+      "doi": "",
+      "status": {
+        "comments": [],
+        "annotationValue": "in preparation",
+        "termSource": {
+          "comments": [],
+          "name": "EFO",
+          "file": "https://www.ebi.ac.uk/ols4/api",
+          "version": "",
+          "description": ""
+        },
+        "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001795"
+      }
+    }
+  ]
+}

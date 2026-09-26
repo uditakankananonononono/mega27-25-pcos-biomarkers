@@ -1,0 +1,6 @@
+text,label,count
+muscle pcos control # | vastus lateralis muscle,DROP,13
+muscle pcos after pioglitazone # | vastus lateralis muscle,case,10
+muscle pcos case # | vastus lateralis muscle,case,10
+muscle pcos pioglitazone # | vastus lateralis muscle,case,9
+muscle pcos pioglitazon # | vastus lateralis muscle,case,1

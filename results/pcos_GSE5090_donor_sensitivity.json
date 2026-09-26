@@ -1,0 +1,16 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5090",
+  "type": "post-audit donor-level effect-only sensitivity",
+  "old_case_arrays": 9,
+  "old_control_arrays": 8,
+  "n_case_people": 8,
+  "n_control_people": 7,
+  "replicate_tokens": [
+    "EP1",
+    "EP31"
+  ],
+  "genes_shared": 13047,
+  "n_sign_changed": 1346,
+  "median_absolute_hedges_g_shift": 0.11422438439268451,
+  "downstream": "not rerun; old meta, panel and classifier cannot be called donor-corrected"
+}

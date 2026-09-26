@@ -1,0 +1,11 @@
+{
+  "gse": "GSE293353",
+  "n_case": 9,
+  "n_control": 9,
+  "n_genes": 19,
+  "signed_panel_within_cohort_auroc": 0.8148148148148149,
+  "signed_panel_within_cohort_auprc": 0.8574074074074074,
+  "random_sign_baseline_auroc_mean": 0.5035802469135803,
+  "random_sign_baseline_auroc_p_ge_observed": 0.059940059940059943,
+  "status": "EXPLORATORY after viewing P8 gene signs; within-cohort normalization uses held-out cohort itself. Not registered and not a valid clinical classifier or published benchmark."
+}

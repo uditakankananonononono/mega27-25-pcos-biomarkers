@@ -1,0 +1,2 @@
+gse,n_genes,n_positive,n_negative,n_agree,p_binomial_half,null_mean,null_sd,p_direction_matched,n_libraries_per_group,pooled_individuals_per_library
+GSE193123,18,17,1,12,0.1189422607421875,9.5399,2.137102709277212,0.17948205179482052,3,2

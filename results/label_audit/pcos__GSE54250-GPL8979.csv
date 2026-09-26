@@ -1,0 +1,3 @@
+text,label,count
+healthy individual # | healthy individual | diagnosis: healthy,control,4
+pcos patient # | pcos patient | diagnosis: polycystic ovarian syndrome (pcos),case,4

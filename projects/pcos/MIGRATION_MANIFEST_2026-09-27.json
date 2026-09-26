@@ -1,0 +1,535 @@
+{
+  "schema": "migration-plan-v1",
+  "disease": "pcos",
+  "proposed_repo": "mega27-25-pcos-biomarkers",
+  "source_shared_repository": "uditakankananonononono/mega27-25-biomarkers-underserved-diseases",
+  "source_commit": "d2284557dc5c515cef9ffc13b7df774508b8211e",
+  "tracked_files": [
+    {
+      "shared_repo_path": "projects/pcos/NOVELTY_PLAN.md",
+      "sha256": "c5276ea4afa95afe051a82d7eeb6623db57c2489cb262111f373505be6fbe341",
+      "bytes": 2379
+    },
+    {
+      "shared_repo_path": "projects/pcos/README.md",
+      "sha256": "5294709038b9e01e59dd51ae97b74eae2b2c6abcf1103609e138e59455ac4366",
+      "bytes": 2065
+    },
+    {
+      "shared_repo_path": "projects/pcos/sources/GSE5090_used_sample_crosswalk.csv",
+      "sha256": "eab3965d7271d04f7f3c34aca89f2564349323e73a13cd6dcdf58a450c8ad822",
+      "bytes": 4081
+    },
+    {
+      "shared_repo_path": "results/external/pcos_metabolights_context.json",
+      "sha256": "4ddbd26ed3e6da99dd01ab569db13c95be1199e41fb448590dd127ff06d63dc6",
+      "bytes": 2742
+    },
+    {
+      "shared_repo_path": "results/fresh_pcos_gene_test.csv",
+      "sha256": "e5969c6282e534bd120c2ed3508a34b4eda47c7712419879b63b11ddf4f97383",
+      "bytes": 1854
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE106724.csv",
+      "sha256": "34eb32fa08c97d8fa40a442581fe4de4533feb88224f0864bb4c2f8895133960",
+      "bytes": 802
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE10946.csv",
+      "sha256": "6c21feb7514789205bcd4f193ad11f7975b52a90fba23fec208b1a1822f703ae",
+      "bytes": 417
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE124226.csv",
+      "sha256": "7e8e7f694283b5112f065fbbf9749c71068af960ac9b927aa2481e98da791ba2",
+      "bytes": 138
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE129919.csv",
+      "sha256": "5cd31d812b2f195634ebe45b2ad1a0d7b08f6e8a319e0c0548d8b13aee9d00cf",
+      "bytes": 314
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE137684.csv",
+      "sha256": "5276246ec187b52670b05bc51a6403a871e03026bfc9dd174f983be918b459e1",
+      "bytes": 212
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE149033.csv",
+      "sha256": "cab589e01d31629e171f87db0d5e5c32ffc06ab642ed5a24b29ebe4cc9b4b3aa",
+      "bytes": 278
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE151158.csv",
+      "sha256": "c994d001415d95618d7bcde4c7eae5a7005b75d13332259e4aaed4bf8d758465",
+      "bytes": 329
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE1615-GPL96.csv",
+      "sha256": "4d4f17f8dfe18b1ca95368dd556e10d15d06b1eae5fe668232c2a88b64599a01",
+      "bytes": 91
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE1615-GPL97.csv",
+      "sha256": "55515bacb99d46c9ba414a49a8c0ce018e588175582658212c6463c21431d7b7",
+      "bytes": 124
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE241134.csv",
+      "sha256": "7220f27784214226532a69e7d751957bed93a88224ee6c4633aba421fa06c542",
+      "bytes": 137
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE34526.csv",
+      "sha256": "c971d6855f5ea57288f4d9e9b74e21af258a15517ece718ae15e7d8e39ebc3af",
+      "bytes": 193
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE43264.csv",
+      "sha256": "c6d7efe69a5985058c132384971c0595215cfe05ecda711571f10925e04d38ec",
+      "bytes": 225
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE43266.csv",
+      "sha256": "46c4805305b786d5cd6e0078a448d66bd2d82c7c9bfdfc5c8dbb58a4a57b5988",
+      "bytes": 285
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE43322.csv",
+      "sha256": "633481c29ab8cf39edc38b56a2e2dcc94842a118d38067249f932ccce527a858",
+      "bytes": 493
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE48301.csv",
+      "sha256": "d35876f88560d74cb01f542fa924e7cebb40295d65fbb20a1a8e1faf56039462",
+      "bytes": 1595
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE5090.csv",
+      "sha256": "78f19cce599de12d277783194785a8fe9ee253679e1e2fba1ec66d9466c6eb39",
+      "bytes": 235
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE54248.csv",
+      "sha256": "f74418ef6867a5db976065eb42f48b308fe0388f53d074057fe2bca8651bc649",
+      "bytes": 175
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE54250-GPL10558.csv",
+      "sha256": "f74418ef6867a5db976065eb42f48b308fe0388f53d074057fe2bca8651bc649",
+      "bytes": 175
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE54250-GPL8979.csv",
+      "sha256": "f74418ef6867a5db976065eb42f48b308fe0388f53d074057fe2bca8651bc649",
+      "bytes": 175
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE5850.csv",
+      "sha256": "670bc540298f826618afb6b0296ec93358a7639916927f5e9fa71852e808e5eb",
+      "bytes": 172
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE6798.csv",
+      "sha256": "993d1361033c4800d93f27f4847b909329c6ef17fc5eb6358b44cfe3150e2613",
+      "bytes": 119
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE80432.csv",
+      "sha256": "aa6e8070618e5df1ee6a83ab84dc28639bf2b72a699b8f15fc74ba400c112c75",
+      "bytes": 371
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE8157.csv",
+      "sha256": "17ffa1dfb8d5477492134575360715e4ed7c8cb7895250cdd6da1dc6d1197669",
+      "bytes": 312
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE87435-GPL96.csv",
+      "sha256": "f387e8a1726d293a03cda785a2aa7450b533d5ce88dbbd1ef18cc29abe9a4f1a",
+      "bytes": 114
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE87435-GPL97.csv",
+      "sha256": "ac2e2ea94b69ce93a407d98ac672b895786b2f72b90c156873d06f568e712588",
+      "bytes": 114
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE98421.csv",
+      "sha256": "451bd1cce65aca81dcec44a6b9b2897a5a606af131dd5eed892f3a0f703d5f2d",
+      "bytes": 194
+    },
+    {
+      "shared_repo_path": "results/label_audit/pcos__GSE98595.csv",
+      "sha256": "e6d04d0b4d3745a1c75d59a13059b97bb8e287f0c3433dcec99ba0d748afcaae",
+      "bytes": 615
+    },
+    {
+      "shared_repo_path": "results/meta_discovery/pcos.csv.gz",
+      "sha256": "1a22f3d227246e25450e524c36613da0ead2e507d117b30b2a00246fc99f7973",
+      "bytes": 500670
+    },
+    {
+      "shared_repo_path": "results/pcos_GSE5090_donor_effects.csv.gz",
+      "sha256": "55224667b66e06f4758751088c229ad9a5c83d5814f079e9db31f4b37d3b7107",
+      "bytes": 291141
+    },
+    {
+      "shared_repo_path": "results/pcos_GSE5090_donor_sensitivity.json",
+      "sha256": "993113c4949751dda9cd720144fb6f40fa1d9d476791a1225ee454f144b434d4",
+      "bytes": 487
+    },
+    {
+      "shared_repo_path": "results/pcos_exploratory_candidates.csv",
+      "sha256": "a6fa4844bb8ce14560ff324d1c1253a65c151569caa2186e7463c7f79685acc2",
+      "bytes": 1466
+    },
+    {
+      "shared_repo_path": "results/pcos_fresh_gene_meta.csv",
+      "sha256": "7cf5c7a86b2187f0b114d6fb724768086d18b149399c9abe8687bb0b1e775a35",
+      "bytes": 2243
+    },
+    {
+      "shared_repo_path": "results/pcos_fresh_matched_null.csv",
+      "sha256": "479746c7fd75b1f20948fccdfdd49418c234ba1561422b572199af4d756e99ba",
+      "bytes": 272
+    },
+    {
+      "shared_repo_path": "results/pcos_p26_genes.csv",
+      "sha256": "f05547f8832213074dbe7d5e4687466e2270c5ce53fc0b9185a629973d4590cf",
+      "bytes": 1027
+    },
+    {
+      "shared_repo_path": "results/pcos_p26_null.csv.gz",
+      "sha256": "c9a4c390ea3b504b12ce8e61334f34b106f85d145c8f31b00da5c8c5a93041b0",
+      "bytes": 5879
+    },
+    {
+      "shared_repo_path": "results/pcos_p26_p27_gsm_audit.csv",
+      "sha256": "f60e4a119efccd5ecf0559313a5347523aba0086501fa45cd631915e8cb43a1e",
+      "bytes": 5762
+    },
+    {
+      "shared_repo_path": "results/pcos_p26_result.json",
+      "sha256": "c3f20eec07ee6e4d6472e00021deb70f737faeae0c556f1e806d75bed11c078e",
+      "bytes": 613
+    },
+    {
+      "shared_repo_path": "results/pcos_p26_sample_map.csv",
+      "sha256": "49e8eb63a07c658080dd6cbeeb445f866be2ba14743a15f783747320ee21d4e4",
+      "bytes": 944
+    },
+    {
+      "shared_repo_path": "results/pcos_p27_genes.csv",
+      "sha256": "c722de95101a79f0440d0756a524f81b10f94e53dbec51442742c74e6c24edf2",
+      "bytes": 1237
+    },
+    {
+      "shared_repo_path": "results/pcos_p27_null.csv.gz",
+      "sha256": "5587ecf605f222ebff1dcc215ec384136bc1fe25010b6eb196ba2644fa1f4141",
+      "bytes": 5614
+    },
+    {
+      "shared_repo_path": "results/pcos_p27_result.json",
+      "sha256": "dbbda3115797ccfeb6c5f10648e9ed7a456ab2890486e7da623fc304b44a96ed",
+      "bytes": 884
+    },
+    {
+      "shared_repo_path": "results/pcos_p5_matched_null.csv",
+      "sha256": "0b4a51dcbff97d66ddb7164649aa13048aae201262d27e64e4b635d176564eb1",
+      "bytes": 238
+    },
+    {
+      "shared_repo_path": "results/pcos_p8.json",
+      "sha256": "53631b937b78f91f3d2d48f153b1fb8820a8e943813dfa4d746b1ee70a962565",
+      "bytes": 764
+    },
+    {
+      "shared_repo_path": "results/pcos_p8_genes.csv",
+      "sha256": "e0668f72f892eece3bce8cc593121f544e863afdf7d45fd9fbb7cacb5ee82ff6",
+      "bytes": 1077
+    },
+    {
+      "shared_repo_path": "results/pcos_p8_labels.csv",
+      "sha256": "888d6697224ead59cc71c66da76e20da1a88040127fcdb04a72333f5f5cf6090",
+      "bytes": 469
+    },
+    {
+      "shared_repo_path": "results/pcos_p8_null_draws.csv.gz",
+      "sha256": "1409fc59f24f1a28cd8da9090848dcad3a28af5106305b1e54c84c201b5cce95",
+      "bytes": 5109
+    },
+    {
+      "shared_repo_path": "results/pcos_p8_score_exploratory.json",
+      "sha256": "7a13827a5c3cc54bb545ab34daf1a0cc3181b51958d09ff45965442ac22117ac",
+      "bytes": 503
+    },
+    {
+      "shared_repo_path": "results/pcos_prospective_gene_effects.csv",
+      "sha256": "9cff00c3f8e962e4760c0867cafc2637e537d5085e2ae1619e06a1609111a5f4",
+      "bytes": 2127
+    },
+    {
+      "shared_repo_path": "results/pcos_prospective_matched_null.csv",
+      "sha256": "27a2794d00c2ca636bc1f3d1c5d1a120c03e21e2736fb569afc620cdfd8497eb",
+      "bytes": 269
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_pcos.csv",
+      "sha256": "976e35e7eb6ac8734a89fe8512cedc5bf8851a9db9f93b14a51d8dc3e6ef1a47",
+      "bytes": 4163
+    },
+    {
+      "shared_repo_path": "results/prio/candidates_pcos.csv",
+      "sha256": "fc78812553c4be3a5ce4c1e8b71bb88928304046290dfe4f1ad2406f9defd587",
+      "bytes": 42
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE106724.csv.gz",
+      "sha256": "689761e859797a07b984e05ee381de60b9b1710687c6e317e85d93d2a2812a96",
+      "bytes": 723262
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE106724.labels.csv",
+      "sha256": "114e639681b636a00e9b557b67618cbfde5500f7b198450777f927e13ab10c00",
+      "bytes": 198
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE124226.csv.gz",
+      "sha256": "0e6b359552c5d6f54c35c34da7f322af2b4bb82d4ae377edabd89f782ed67412",
+      "bytes": 220699
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE124226.labels.csv",
+      "sha256": "71c5dd846599d5f05fcc91cdc3e8a59290787ff8952a388b094631344e7f8d89",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE137684.csv.gz",
+      "sha256": "d8384162428756c332571b368653e7748674064be69868a45c6a934aae3bf9c0",
+      "bytes": 240095
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE137684.labels.csv",
+      "sha256": "95e0bb327923950f905081cc1dcfe0f8e51d892f28024500e843cb36a9de15c8",
+      "bytes": 214
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE155489.csv.gz",
+      "sha256": "43857f52644611e5b7029ea2fe5a097c2cc96db442298d8b337bb17f916bd3f0",
+      "bytes": 232636
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE155489.labels.csv",
+      "sha256": "8af9635db486c429445209c3db476d3f40c81a30b48460513dfd41c9f4fad296",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE193123.csv.gz",
+      "sha256": "3a29d3df09dba672b7c57f600fdaf1e3665c3f861f177414ab0876becc93c943",
+      "bytes": 170529
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE193123.labels.csv",
+      "sha256": "a438537ac7bf3132ec2a087c560caad591aa97079b53362f5d23749b8f863a75",
+      "bytes": 115
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE262735.csv.gz",
+      "sha256": "ce7aed6975c0ac0d167e33cdaac709d3c7f2f425ac013518fd2bff175fbc2733",
+      "bytes": 168026
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE262735.labels.csv",
+      "sha256": "15e1273189c71c6d89954cf8f2c630d71cdab5dc90590a8bcd2597fdad743c56",
+      "bytes": 325
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE277906.csv.gz",
+      "sha256": "5a8452e609aa330557ac84dbefe1c9e51e753875c28e67b515df641c8a0ca140",
+      "bytes": 133776
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE277906.labels.csv",
+      "sha256": "7f44acb21204cf525cb70e3d5731ce6e949efc92f175520b0dc37d4b77ad2ca6",
+      "bytes": 701
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE293353.csv.gz",
+      "sha256": "52035bcc4e81a451fb15d17a1375f96e1a9803198041abdb6edce4cd9fcebe66",
+      "bytes": 151405
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE304677.csv.gz",
+      "sha256": "f8af5768c6761b571db023250b6ac76af482a35238cf0d77b14f41f0314fd765",
+      "bytes": 181525
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE304677.labels.csv",
+      "sha256": "4fb77c1014d2d9a0f5c96fb23144819c3795f6547d6f0710bee6ec9ae451a0ac",
+      "bytes": 185
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE34526.csv.gz",
+      "sha256": "2ebcbb30687966574a5083f01fb3489d6e73f3c28cd96adeb708d3355de33610",
+      "bytes": 223211
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE34526.labels.csv",
+      "sha256": "8c1473f0a74fd73641ca481c1a6684cd8a26513db3aef536aa0b7d7552208746",
+      "bytes": 169
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE43264.csv.gz",
+      "sha256": "abbe444460934cf07896f90c20e03394d1f8b337dca8508167c0cfe826ab6d81",
+      "bytes": 169821
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE43264.labels.csv",
+      "sha256": "309ffbb5bb2c08e3a1d83cd6dd5277ccc9cc58916ad32831f56e8bb735c54ee7",
+      "bytes": 271
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE43322.csv.gz",
+      "sha256": "7c9b45b055fce2e39aeb30075dfd6d50c6a3beefd2be42ee61a8eb414465652c",
+      "bytes": 167731
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE43322.labels.csv",
+      "sha256": "53f42e3a18755492d6962e99110250ff7098eb03ab74bac800da1e14e0e06253",
+      "bytes": 527
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE48301.csv.gz",
+      "sha256": "354898497d135a21b3197eac9f7b8198347cbfeade6a8694f35f4fbc3c49aca6",
+      "bytes": 193025
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE48301.labels.csv",
+      "sha256": "999608d30be6efbd778681bec63a41d74076ee69d50af0523e45a47d9421b822",
+      "bytes": 519
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE5090.csv.gz",
+      "sha256": "198607e9d79d73a870d4ad5409fc784785e9047bec638c85e0327bfec59591cc",
+      "bytes": 129170
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE5090.labels.csv",
+      "sha256": "a491655b229adcbf8995317dcfbf7c888ec51500de19b170665dfe7fe5ff2138",
+      "bytes": 289
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54248.csv.gz",
+      "sha256": "18be15579c73e041c416528cc3127cc2086e3fd641fd14f6841544153ac83322",
+      "bytes": 210823
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54248.labels.csv",
+      "sha256": "67d83f8efc692b23c051ba3ae5a153ce56b5ed2966db1f7b8df4d99127377263",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54250-GPL10558.csv.gz",
+      "sha256": "85ca0b6b825a3bb0abaf5ca08933bf886e59e3854995daa7da2455687a97df5f",
+      "bytes": 210832
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54250-GPL10558.labels.csv",
+      "sha256": "67d83f8efc692b23c051ba3ae5a153ce56b5ed2966db1f7b8df4d99127377263",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54250-GPL8979.csv.gz",
+      "sha256": "84610db7adc3959ab667404da31687a9a067c282e4287a482d0a3a4f01cf5f5a",
+      "bytes": 93
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE54250-GPL8979.labels.csv",
+      "sha256": "3dd9f0b8a65e0775a1b0be0adf75b4bca963e00d16b2523fbfe164ceb15cbcb4",
+      "bytes": 150
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE6798.csv.gz",
+      "sha256": "0aa42445350aae1ce98e124c259db0c9e26dd3d7a2d5f25219a4888c78e8dc14",
+      "bytes": 214521
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE6798.labels.csv",
+      "sha256": "b85ce7ae486f609cddb12e5742028445871aecf8e453b7bb9d08554fa1e3589c",
+      "bytes": 484
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE80432.csv.gz",
+      "sha256": "9f717f0af42e8182e127672c463995f580e0de419e3d9ed0107209074f0009f1",
+      "bytes": 202169
+    },
+    {
+      "shared_repo_path": "results/series/pcos__GSE80432.labels.csv",
+      "sha256": "704381da52c24f2fdcee73c8b97627e68bc2c5387ba9c402d3c89d5b3e6ae7d6",
+      "bytes": 274
+    },
+    {
+      "shared_repo_path": "scripts/pcos_candidates.py",
+      "sha256": "a4dd487b856b72007a87cdebcc2b5bf6156480aa051831de774c29d823d46d6e",
+      "bytes": 729
+    },
+    {
+      "shared_repo_path": "scripts/pcos_fresh_null.py",
+      "sha256": "8c6c194839f4828269128c5701ca11dfa5518ea0c4978fe9ce9932996864b020",
+      "bytes": 1996
+    },
+    {
+      "shared_repo_path": "scripts/pcos_gse5090_donor_sensitivity.py",
+      "sha256": "cbe75a2fb63981d4d7e8e1428cc8e398d2a475766724add8316f0eccedbacc7c",
+      "bytes": 2224
+    },
+    {
+      "shared_repo_path": "scripts/pcos_p26_mpc_transport.py",
+      "sha256": "15051f4822d46a850a374c7afc409ffa279389d0b253c5f3e42828291c0ab851",
+      "bytes": 5747
+    },
+    {
+      "shared_repo_path": "scripts/pcos_p27_granulosa_transport.py",
+      "sha256": "0482d17a09112961aa65da0d480af5cf21e37b641f8836af7bdc3e45a8ffca1d",
+      "bytes": 5576
+    },
+    {
+      "shared_repo_path": "scripts/pcos_p5_test.py",
+      "sha256": "844290d03a9d4e69a3a0907c0af7b2a0e2940610770503bc0b8c066ee393d95c",
+      "bytes": 1476
+    },
+    {
+      "shared_repo_path": "scripts/pcos_p8_baseline.py",
+      "sha256": "ca041d65e013f8c0543990da0b8f6204c082aa93c44385703f975d4159397782",
+      "bytes": 2322
+    },
+    {
+      "shared_repo_path": "scripts/pcos_p8_test.py",
+      "sha256": "dcb7540b6594dbf646ab3d58eb2f6887e41f797b275cb66c0f27ead7fdb52cab",
+      "bytes": 4389
+    },
+    {
+      "shared_repo_path": "scripts/pcos_prospective_test.py",
+      "sha256": "574f120603e9d79709011f2444c22519b32fdd9891c0142fd7cc3554640c85b9",
+      "bytes": 2007
+    }
+  ],
+  "explicitly_excluded": [
+    "untracked files",
+    "modified tracked files not represented by source commit",
+    "other-disease results",
+    "shared manuscript until disease-specific content can be verified"
+  ],
+  "accession_manifest": {
+    "source": "results/dataset_manifest.csv",
+    "matching_rule": "disease string in role field, not proof of independent datasets",
+    "matching_record_count": 54,
+    "GSE_count": 17,
+    "GSM_count": 36,
+    "other_count": 1
+  },
+  "deployment_status": "planning_only_no_repos_verified",
+  "method": "copy and verify hashes from source_commit Git tree, not dirty working tree; preserve project-relative paths; pin shared core; then run project-specific tests and read back remote"
+}

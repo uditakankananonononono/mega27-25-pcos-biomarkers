@@ -1,0 +1,3 @@
+text,label,count
+"tsx #b | tsx, ovary sample",DROP,12
+"pcos #b | pcos, ovary sample | disease state: pcos",case,6

@@ -1,0 +1,5 @@
+text,label,count
+non-pcos normal weight # | non-pcos normal weight granulosa cells | disease state: non-pcos,control,4
+non-pcos obesity # | non-pcos obesity granulosa cells | disease state: non-pcos,control,4
+pcos normal weight # | pcos normal weight granulosa cells | disease state: pcos,DROP,4
+pcos obesity # | pcos obesity granulosa cells | disease state: pcos,case,4

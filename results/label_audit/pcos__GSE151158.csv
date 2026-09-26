@@ -1,0 +1,6 @@
+text,label,count
+liver_rna-#_nas# | #_nas# | pcos: n | cardiovascular disease: n,control,39
+liver_rna-#_ctrl | #_ctrl | pcos: n | cardiovascular disease: n,control,21
+no_rna_blank_#-#_#-#_#-# | blank_#-#_#-#_#-#,DROP,4
+liver_rna-#_nas# | #_nas# | pcos: n | cardiovascular disease: y,control,1
+no_rna_blank_#-# | blank_#-#,DROP,1

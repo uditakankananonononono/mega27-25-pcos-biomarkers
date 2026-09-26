@@ -1,0 +1,7 @@
+text,label,count
+ct# | cabergoline treated non-pcos (control #) | diagnosis: non-polycystic ovarian syndrome (pcos),DROP,3
+cu# | untreated non-pcos (control #) | diagnosis: non-polycystic ovarian syndrome (pcos),DROP,3
+pt# | cabergoline treated pcos (patient #) | diagnosis: polycystic ovarian syndrome (pcos),case,3
+pu# | untreated pcos (patient #) | diagnosis: polycystic ovarian syndrome (pcos),case,3
+pt#_r | cabergoline treated pcos (patient #)-replicate | diagnosis: polycystic ovarian syndrome (pcos),case,2
+pu#_r | untreated pcos (patient #)-replicate | diagnosis: polycystic ovarian syndrome (pcos),case,2

@@ -1,0 +1,3 @@
+text,label,count
+"pcos, biological rep # | pcos, biological rep # | disease: polycystic ovary syndrome",case,7
+"normal, biological rep # | normal, biological rep # | disease: normal",control,3

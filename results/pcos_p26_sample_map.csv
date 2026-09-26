@@ -1,0 +1,15 @@
+gsm,title,sample_description,disease,treatment,primary
+GSM8263508,C25,N11311_13,disease: Control,treatment: No,1
+GSM8263509,C25 w/ testosterone,N11311_14,disease: Control,treatment: Yes,0
+GSM8263510,C24,N11311_15,disease: Control,treatment: No,1
+GSM8263511,C24 w/ testosterone,N11311_16,disease: Control,treatment: Yes,0
+GSM8263512,C31,N11311_03,disease: Control,treatment: No,1
+GSM8263513,C31 w/ testosterone,N11311_04,disease: Control,treatment: Yes,0
+GSM8263514,C32,N11311_05,disease: Control,treatment: No,1
+GSM8263515,P2,N11311_07,disease: PCOS,treatment: No,1
+GSM8263516,P2 w/ testosterone,N11311_08,disease: PCOS,treatment: Yes,0
+GSM8263517,P5,N11311_09,disease: PCOS,treatment: No,1
+GSM8263518,P5 w/ testosterone,N11311_10,disease: PCOS,treatment: Yes,0
+GSM8263519,P11,N11311_11,disease: PCOS,treatment: No,1
+GSM8263520,P12,N11311_17,disease: PCOS,treatment: No,1
+GSM8263521,P12 w/ testosterone,N11311_18,disease: PCOS,treatment: Yes,0

@@ -1,0 +1,18 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267287",
+  "matrix_sha256": "93335008afe200eeb1f3f7edf7d77a996bc4ef69179763e9c441fe0fb6b5108f",
+  "count_sha256": "38caa96acb45c5494e6c68af5d0667b750adcfcdc438e10257be726f9cc84ba9",
+  "n_untreated_pcos": 4,
+  "n_untreated_control": 4,
+  "n_treated_excluded": 6,
+  "n_unique_mapped_genes": 41975,
+  "n_effect_genes": 14299,
+  "n_fixed_measured": 18,
+  "n_positive": 17,
+  "n_negative": 1,
+  "n_sign_match": 10,
+  "null_mean": 8.5569,
+  "empirical_p": 0.3281671832816718,
+  "registered_descriptive_support": false,
+  "ambiguous_ensembl_ids": 3
+}

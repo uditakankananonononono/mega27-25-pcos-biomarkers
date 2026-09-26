@@ -1,0 +1,19 @@
+text,label,count
+pcos endometrium stromal cell_#.pc#-+ | pcos endometrial biopsy,case,3
+control endometrium epithelial cell_#.uc#_epcam | proliferative stage endometrial biopsy,control,3
+pcos endometrium mesenchymal cell_#.pc#++ | pcos endometrial biopsy,case,3
+pcos endometrium epithelial cell_#.pc#_epcam | pcos endometrial biopsy,case,3
+pcos endometrium endothelial cell_#.pc#+- | pcos endometrial biopsy,case,2
+control endometrium endothelial cell_#.uc#+- | proliferative stage endometrial biopsy,control,2
+control endometrium stromal cell_#.uc#-+ | proliferative stage endometrial biopsy,control,2
+control endometrium endothelial cell_#.uc#+-new | proliferative stage endometrial biopsy,control,1
+control endometrium mesenchymal cell_#.uc#++ | proliferative stage endometrial biopsy,control,1
+control endometrium endothelial cell_etb# +- | proliferative stage endometrial biopsy,control,1
+control endometrium stromal cell_#.uc-#-+ | proliferative stage endometrial biopsy,control,1
+control endometrium mesenchymal cell_etb# ++ | proliferative stage endometrial biopsy,control,1
+control endometrium mesenchymal cell_#.uc#++new | proliferative stage endometrial biopsy,control,1
+control endometrium mesenchymal cell_#.uc#++) | proliferative stage endometrial biopsy,control,1
+pcos endometrium endothelial cell_#.uc#+- | pcos endometrial biopsy,case,1
+control endometrium stromal cell_etb# -+ | proliferative stage endometrial biopsy,control,1
+pcos endometrium epithelial cell_#.uc# epcam | pcos endometrial biopsy,case,1
+pcos endometrium stromal cell_#.uc#-+ | pcos endometrial biopsy,case,1

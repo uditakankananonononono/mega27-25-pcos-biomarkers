@@ -1,0 +1,4 @@
+text,label,count
+hyperandrogenic pcos s# | ha-# | condition: hyperandrogenic pcos,case,4
+normal s# | normal-# | condition: normal,control,4
+normoandrogenic pcos s# | na-# | condition: normoandrogenic pcos,case,4

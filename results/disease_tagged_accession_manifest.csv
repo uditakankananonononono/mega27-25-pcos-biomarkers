@@ -1,0 +1,55 @@
+accession,source,role
+GSE106724,GEO series,pcos:validation
+GSE124226,GEO series,pcos:validation
+GSE137684,GEO series,pcos:validation
+GSE155489,GEO series supplementary matrix,pcos:prospective_followup (cumulus granulosa)
+GSE262735,GEO series supplementary matrix,pcos:prospective_followup (PBMC monocytes)
+GSE267287,GEO series and supplement,pcos:P26 untreated iPSC-MPC count matrix and metadata
+GSE277906,GEO series supplementary matrix,pcos:fresh_validation (cumulus cells)
+GSE293353,GEO series and supplementary counts,pcos:P8 follicular-granulosa matched-null stress test
+GSE294074,GEO series and supplement,pcos:P27 full-length granulosa isoform TPM and annotation
+GSE304677,GEO series supplementary matrix,pcos:fresh_validation (ovarian granulosa cells)
+GSE34526,GEO series,pcos:discovery
+GSE43322,GEO series,pcos:discovery
+GSE5090,GEO series,pcos:discovery
+GSE54248,GEO series,pcos:discovery
+GSE54250,GEO series,pcos:discovery
+GSE6798,GEO series,pcos:discovery
+GSE80432,GEO series,pcos:validation
+GSM4705199,GEO sample full-text record,pcos:GSE155489:label_identity_audit
+GSM4705200,GEO sample full-text record,pcos:GSE155489:label_identity_audit
+GSM4705203,GEO sample full-text record,pcos:GSE155489:label_identity_audit
+GSM4705204,GEO sample full-text record,pcos:GSE155489:label_identity_audit
+GSM8174669,GEO sample full-text record,pcos:GSE262735:label_identity_audit
+GSM8174670,GEO sample full-text record,pcos:GSE262735:label_identity_audit
+GSM8174678,GEO sample full-text record,pcos:GSE262735:label_identity_audit
+GSM8174679,GEO sample full-text record,pcos:GSE262735:label_identity_audit
+GSM8263508,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263509,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8263510,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263511,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8263512,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263513,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8263514,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263515,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263516,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8263517,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263518,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8263519,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263520,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
+GSM8263521,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8534278,GEO sample full-text record,pcos:GSE277906:label_identity_audit
+GSM8534279,GEO sample full-text record,pcos:GSE277906:label_identity_audit
+GSM8534295,GEO sample full-text record,pcos:GSE277906:label_identity_audit
+GSM8534296,GEO sample full-text record,pcos:GSE277906:label_identity_audit
+GSM8898319,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM8898320,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM8898321,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM8898322,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM8898323,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM8898324,GEO individually fetched GSM full-text record,pcos:P27 granulosa TPM sample; nested in GSE294074; no independent-cohort inflation
+GSM9155146,GEO sample full-text record,pcos:GSE304677:label_identity_audit
+GSM9155147,GEO sample full-text record,pcos:GSE304677:label_identity_audit
+GSM9155151,GEO sample full-text record,pcos:GSE304677:label_identity_audit
+GSM9155152,GEO sample full-text record,pcos:GSE304677:label_identity_audit
+MONDO_0008487,Open Targets disease associations,known genes pcos

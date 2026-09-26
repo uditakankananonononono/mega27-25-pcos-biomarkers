@@ -1,0 +1,8 @@
+text,label,count
+"# | ovarian granulosa cells, normal control | disease state: normal control",control,3
+"# | ovarian granulosa cells, pcos with with normal testosterone level | disease state: pcos with with normal testosterone level",DROP,3
+"#.# | ovarian granulosa cells, pcos with hyperandrogenism | disease state: pcos with hyperandrogenism",case,2
+"#.# | ovarian granulosa cells, pcos with with normal testosterone level | disease state: pcos with with normal testosterone level",DROP,1
+"c# | ovarian granulosa cells, normal control | disease state: normal control",control,1
+"p# | ovarian granulosa cells, pcos with hyperandrogenism | disease state: pcos with hyperandrogenism",case,1
+"xyl | ovarian granulosa cells, pcos with hyperandrogenism | disease state: pcos with hyperandrogenism",case,1

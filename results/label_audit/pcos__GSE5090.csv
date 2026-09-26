@@ -1,0 +1,5 @@
+text,label,count
+ep#_adipose_pcos | omental adipose tissue,case,7
+ep#_adipose_control | omental adipose tissue,control,6
+ep#_adipose_control_rep# | omental adipose tissue,control,2
+ep#_adipose_pcos_rep# | omental adipose tissue,case,2

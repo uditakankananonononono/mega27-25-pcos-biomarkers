@@ -1,0 +1,24 @@
+{
+  "gse": "GSE293353",
+  "n_case": 9,
+  "n_control": 9,
+  "n_genes_measured": 19,
+  "n_positive": 18,
+  "n_negative": 1,
+  "n_agree": 16,
+  "fraction_agree": 0.8421052631578947,
+  "null_mean": 15.7254,
+  "null_sd": 1.5073891542021327,
+  "empirical_p": 0.5884411558844116,
+  "passes_per_cohort": false,
+  "mapped_genes": 14856,
+  "unmapped_ensembl_rows": 19761,
+  "ambiguous_hgnc_ensembl_ids": [
+    "ENSG00000175658",
+    "ENSG00000230417",
+    "ENSG00000250413"
+  ],
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE293nnn/GSE293353/suppl/GSE293353_gene_count_matrix.txt.gz",
+  "matrix_sha256": "00d0b39c1087b3d93dd91999c0d53a92683e38682950746cf9ebc0f8b1066e61",
+  "sample_info_sha256": "71bbef8f05e0ac76b498c4f72fbbb79f1bcfffa5f857e947d7cef4f4cba0bf5c"
+}
