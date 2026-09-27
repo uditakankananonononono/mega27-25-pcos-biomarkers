@@ -5,6 +5,7 @@ GSE137684,GEO series,pcos:validation
 GSE155489,GEO series supplementary matrix,pcos:prospective_followup (cumulus granulosa)
 GSE262735,GEO series supplementary matrix,pcos:prospective_followup (PBMC monocytes)
 GSE267287,GEO series and supplement,pcos:P26 untreated iPSC-MPC count matrix and metadata
+GSE271363,GEO series and processed RPKM cumulus-cell matrix,"pcos:P46 frozen panel source-level test; 5 PCOS and 11 controls; registered support failed, independent donors not verified"
 GSE277906,GEO series supplementary matrix,pcos:fresh_validation (cumulus cells)
 GSE293353,GEO series and supplementary counts,pcos:P8 follicular-granulosa matched-null stress test
 GSE294074,GEO series and supplement,pcos:P27 full-length granulosa isoform TPM and annotation
@@ -55,6 +56,22 @@ GSM8263518,GEO individually fetched GSM full-text record,pcos:P26 testosterone-t
 GSM8263519,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
 GSM8263520,GEO individually fetched GSM full-text record,pcos:P26 untreated panel expression sample; nested in GSE267287; no independent-cohort inflation
 GSM8263521,GEO individually fetched GSM full-text record,pcos:P26 testosterone-treated exclusion metadata; nested in GSE267287; no independent-cohort inflation
+GSM8375448,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375449,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375450,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375451,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375452,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375453,GEO individually fetched full GSM record,"pcos:P46 case cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375454,GEO individually fetched full GSM record,"pcos:P46 case cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375455,GEO individually fetched full GSM record,"pcos:P46 case cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375456,GEO individually fetched full GSM record,"pcos:P46 case cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375457,GEO individually fetched full GSM record,"pcos:P46 case cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375458,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375459,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375460,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375461,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375462,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
+GSM8375463,GEO individually fetched full GSM record,"pcos:P46 control cumulus-cell RPKM source; nested in GSE271363, not independent cohort"
 GSM8534278,GEO sample full-text record,pcos:GSE277906:label_identity_audit
 GSM8534279,GEO sample full-text record,pcos:GSE277906:label_identity_audit
 GSM8534295,GEO sample full-text record,pcos:GSE277906:label_identity_audit

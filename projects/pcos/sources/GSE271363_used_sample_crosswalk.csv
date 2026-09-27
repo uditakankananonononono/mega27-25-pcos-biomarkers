@@ -1,0 +1,17 @@
+gsm,parent,description,title,label,url,sha256
+GSM8375448,GSE271363,CONTROL-163,"SVBN184, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375448&targ=self&form=text&view=full,fbc83e43cd9078e185ee6838488e38c9f1fd1e1fd7cbf0ac5c1dec0fcf36c99a
+GSM8375449,GSE271363,CONTROL-142,"SVBN185, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375449&targ=self&form=text&view=full,5ffe1416d910346533e729679ede52ab2da293fa31baddfff4055da6467154e5
+GSM8375450,GSE271363,CONTROL-141,"SVBN187, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375450&targ=self&form=text&view=full,ebf1f8e9a3a4d4aa3f31017df3ff1ef0ec559ce517a85f8f45988d1282d15e8e
+GSM8375451,GSE271363,CONTROL-130,"SVBN190, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375451&targ=self&form=text&view=full,035dca9a76dde559363f1576d33125b034428a328218c6fc2d16f804e2629187
+GSM8375452,GSE271363,CONTROL-183,"SVBN192, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375452&targ=self&form=text&view=full,d1e6d60c43f58cecabff1e0b941acfddfd97e367f8fd37108cd40213f0d57552
+GSM8375453,GSE271363,PCOS-87,"SVBN193, PCOS",case,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375453&targ=self&form=text&view=full,0dcc4155300c393dc8e03826d080c526d80968c007475f8e46bd66b18e20b51e
+GSM8375454,GSE271363,PCOS-213,"SVBN195, PCOS",case,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375454&targ=self&form=text&view=full,9d58d1e576c71df96541a3a72e87b25ea9c66194afc9094779fd1cd36d3f705f
+GSM8375455,GSE271363,PCOS-37,"SVBN198, PCOS",case,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375455&targ=self&form=text&view=full,17d82b797a8a7555320df1ec4515e318c60baea66e3626de7c7acf64e0a29e8d
+GSM8375456,GSE271363,PCOS-138,"SVBN200, PCOS",case,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375456&targ=self&form=text&view=full,7254304ec7c5ce8d0342874dbd47995c4a789d116c74eb969dc16cb4b41a4bd2
+GSM8375457,GSE271363,PCOS-116,"SVBN201, PCOS",case,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375457&targ=self&form=text&view=full,ca7c436a1205a8c3f91e9122659374f2413b380926aa3c62f5917e6f17da3975
+GSM8375458,GSE271363,CONTROL-143,"SVBN204, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375458&targ=self&form=text&view=full,c2b303bf0dc73733fa6c7685f5704806073da6e14cb48bbb71f6ca987a0ca178
+GSM8375459,GSE271363,CONTROL-189,"SVBN205, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375459&targ=self&form=text&view=full,aabc8347725c9423bb7c898cb837ef4ca0af26ce14526a552e4c3e6f8c52d480
+GSM8375460,GSE271363,CONTROL-175,"SVBN206, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375460&targ=self&form=text&view=full,1668a40d10eebaae16731e8272343c5a4c430e5aa134af30509530bf612274bd
+GSM8375461,GSE271363,CONTROL-32,"SVBN208, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375461&targ=self&form=text&view=full,f7bf9ac20bacf8a5f3f0da6dd19e4dde43a9a29183afe66639684d332068126b
+GSM8375462,GSE271363,CONTROL-132,"SVBN209, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375462&targ=self&form=text&view=full,7f8dbfcddc9687771f661daa84ebe516ba7f13307dcbdb288512fb33bf62d195
+GSM8375463,GSE271363,CONTROL-158,"SVBN210, CONTROL",control,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8375463&targ=self&form=text&view=full,e62085a161f00314513abc6a880a27ec8f2a1cca88c0bb700c75f55011eb2a72

@@ -1,0 +1,17 @@
+{
+  "gse": "GSE271363",
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271363",
+  "data_sha256": "c260e9e1a4465cf6cae6cacd1e31223acd2089f9227042c0dcaf202927da94f6",
+  "meta_sha256": "fc3d45b681877e46b5b9f8d63248a5914f0eec8ca490ffc0768ddf18befe95c0",
+  "n_case": 5,
+  "n_control": 11,
+  "n_panel_measured": 19,
+  "n_positive": 18,
+  "n_negative": 1,
+  "n_agree": 14,
+  "null_mean": 10.8196,
+  "empirical_p": 0.10818918108189181,
+  "registered_support": false,
+  "participant_identity": "No independently verified donor crosswalk; 16 distinct GSM/BioSample/title records only",
+  "interpretation": "Exploratory frozen panel transport; not clinical prediction, new biomarker or published benchmark beat."
+}
