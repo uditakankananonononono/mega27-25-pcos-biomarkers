@@ -16,6 +16,23 @@ GSE54248,GEO series,pcos:discovery
 GSE54250,GEO series,pcos:discovery
 GSE6798,GEO series,pcos:discovery
 GSE80432,GEO series,pcos:validation
+GSM114834,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP1, not independent study"
+GSM114840,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP1, not independent study"
+GSM114841,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP3, not independent study"
+GSM114842,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP10, not independent study"
+GSM114843,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP18, not independent study"
+GSM114844,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP23, not independent study"
+GSM114845,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP31, not independent study"
+GSM114846,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP31, not independent study"
+GSM114847,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP32, not independent study"
+GSM114848,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP34, not independent study"
+GSM114849,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP37, not independent study"
+GSM114850,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP47, not independent study"
+GSM114851,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP49, not independent study"
+GSM114852,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP55, not independent study"
+GSM114853,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose case array; nested in GSE5090; EP donor token EP66, not independent study"
+GSM114854,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP69, not independent study"
+GSM114855,GEO individually fetched full GSM expression record,"pcos:GSE5090 historically analyzed adipose control array; nested in GSE5090; EP donor token EP71, not independent study"
 GSM4705199,GEO sample full-text record,pcos:GSE155489:label_identity_audit
 GSM4705200,GEO sample full-text record,pcos:GSE155489:label_identity_audit
 GSM4705203,GEO sample full-text record,pcos:GSE155489:label_identity_audit
