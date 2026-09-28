@@ -118,3 +118,5 @@ GSM1059698,GEO individually fetched full GSM record,"pcos:GSE43322 historically 
 GSM1059699,GEO individually fetched full GSM record,"pcos:GSE43322 historically analyzed PUFA_PCOS adipose expression array; nested in SuperSeries and GSE43266; overlap across treatment arms unresolved, not independent cohort"
 GSM1059700,GEO individually fetched full GSM record,"pcos:GSE43322 historically analyzed PUFA_PCOS adipose expression array; nested in SuperSeries and GSE43266; overlap across treatment arms unresolved, not independent cohort"
 GSM1059701,GEO individually fetched full GSM record,"pcos:GSE43322 historically analyzed placebo_PCOS adipose expression array; nested in SuperSeries and GSE43266; overlap across treatment arms unresolved, not independent cohort"
+GSE43264,GEO full SOFT SubSeries record,"pcos:GSE43322 nested source-used parent SubSeries, 15 already-counted GSMs; not a distinct cohort or extra patient"
+GSE43266,GEO full SOFT SubSeries record,"pcos:GSE43322 nested source-used parent SubSeries, 16 already-counted GSMs; not a distinct cohort or extra patient"

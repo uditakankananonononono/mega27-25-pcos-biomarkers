@@ -21,5 +21,16 @@ def test_source_scope_and_replay():
         assert x['matrix_sha256']==MATRIX_HASH
     for m in ['disease_tagged_accession_manifest.csv']:
         rows=list(csv.DictReader(open(ROOT/'results'/m)))
-        assert len(rows)==len({x['accession'] for x in rows})==119
+        assert len(rows)==len({x['accession'] for x in rows})==121
         assert {x['gsm'] for x in cross}<={x['accession'] for x in rows}
+        assert {'GSE43264','GSE43266'}<={x['accession'] for x in rows}
+
+
+def test_nested_series_membership_not_new_cohorts():
+    import re
+    cross=list(csv.DictReader(open(HERE/'GSE43322_used_sample_crosswalk.csv')))
+    for series,n in [('GSE43264',15),('GSE43266',16)]:
+        text=(HERE/f'{series}.series.soft.txt').read_text()
+        ids=re.findall(r'^!Series_sample_id = (GSM\d+)',text,re.M)
+        assert len(ids)==n and set(ids)=={x['gsm'] for x in cross if x['subseries']==series}
+        assert f'!Series_relation = SubSeries of: GSE43322' in text
