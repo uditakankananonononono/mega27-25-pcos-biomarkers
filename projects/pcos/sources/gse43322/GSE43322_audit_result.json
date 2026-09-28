@@ -1,0 +1,12 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43322",
+  "historical_pooled_case_arrays": 24,
+  "baseline_PCOS_arrays": 8,
+  "placebo_PCOS_arrays": 8,
+  "PUFA_PCOS_arrays": 8,
+  "control_arrays": 7,
+  "genes_common": 16910,
+  "effect_sign_flips": 2956,
+  "old_effect_max_abs_replay_delta": 5.130357867066948e-05,
+  "caveat": "Post-exposure baseline-only case restriction in same SuperSeries. Eight placebo and eight LC n-3 PUFA biopsies are from a PCOS crossover intervention subseries; unknown participant overlap with eight baseline cases. No baseline-vs-placebo person matching, untouched validation, clinical marker, or published comparator win."
+}
